@@ -29,7 +29,7 @@ If nextPractice includes any downloadable components or exercises that require l
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/nextPractice.git
+git clone https://github.com/Jeremy-434/nextPractice.git
 
 # Navigate to the project directory
 cd nextPractice
@@ -57,7 +57,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-For any questions or feedback, please reach out to our support team at support@nextpractice.com.
+For any questions or feedback, please reach out to our support team at jeremy9451.lmd@gmail.com
 
 ---
 
