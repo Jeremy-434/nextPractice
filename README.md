@@ -1,9 +1,9 @@
 
-![NextJsproblem Solution](https://github.com/Jeremy-434/nextPractice/assets/108358785/048df63b-9d19-4b46-9a8c-7b68abafc9fe)
-![NextJsproblem Solution](https://github.com/Jeremy-434/nextPractice/assets/108358785/048df63b-9d19-4b46-9a8c-7b68abafc9fe)
-
-
 # nextPractice
+
+---
+
+![NextJsproblem Solution](https://github.com/Jeremy-434/nextPractice/assets/108358785/048df63b-9d19-4b46-9a8c-7b68abafc9fe)
 
 **nextPractice** es una plataforma de aprendizaje dinámica diseñada para elevar tus habilidades de desarrollo en Next.js. Ya seas un principiante o un desarrollador experimentado, nextPractice ofrece tutoriales interactivos, proyectos del mundo real, orientación de expertos y soporte comunitario para ayudarte a dominar Next.js.
 
